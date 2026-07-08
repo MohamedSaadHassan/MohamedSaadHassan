@@ -45,7 +45,7 @@ I'm a Mechatronics Engineer passionate about Robotics, Embedded Systems, Industr
 ## 📫 Contact
 
 - 📧 Email: rehamsaad789@gmail.com
-- 💼 LinkedIn: *(Add your LinkedIn profile here)*
+- 💼 LinkedIn: https://www.linkedin.com/in/mohamed-saad-hassan-6934361b6/en/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BDVihjE3PRjWIdQ2dOoAcfQ%3D%3D
 
 ---
 
